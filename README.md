@@ -1,7 +1,7 @@
 # Getting-Started
 A currated list of all you need to get started smoothly
 
-- Java 8(do a quick Googling to find out how to install it on your PC or see and expert for help)
+- Java 8(do a quick Googling to find out how to install it on your PC or see an expert for help)
 
 - Get Netbeans(version 8.2) from [here](https://netbeans.org/downloads/) 
 
